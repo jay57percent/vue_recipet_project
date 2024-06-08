@@ -10,10 +10,11 @@
     "format": "prettier --write src/**/*.{js,vue,css}"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vuetify": "^3.6.0-beta.0.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue": "^5.0.5",
     "prettier": "^3.3.1",
     "vite": "^5.2.0"
   }
